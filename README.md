@@ -29,6 +29,6 @@ Links:
 
 ## Outcomes
 
-- [Report.pdf](./Project_Report.pdf)
+- [Report.pdf](Project Report.pdf)
 - [Final Project Submission](./Final_Project_Presention.pdf)
   
