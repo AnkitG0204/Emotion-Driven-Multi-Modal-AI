@@ -29,6 +29,6 @@ Links:
 
 ## Outcomes
 
-- [Report.pdf](Project_Report.pdf)
+- [[Report.pdf](https://github.com/AnkitGundewar/Emotion-Driven-Multi-Modal-AI/blob/61559aedcf709ca4637d4810c353da13bfe17292/Project%20Report.pdf)]
 - [Project Submission](Project_Presentation.pptx)
   
